@@ -1,0 +1,8 @@
+{
+    "name": "LaMenace",
+    "description": "Discord: https://discord.gg/vzECwCe",
+    "authors": "",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {}
+}
